@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m currently learning SYSU
-![status](https://github-readme-stats.vercel.app/api?username=nothasson&theme=dark)
+
+
+![status]![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nothasson&count_private=true&theme=dark&show_icons=true))
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nothasson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
