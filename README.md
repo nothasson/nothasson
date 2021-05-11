@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning SYSU
+🌱 I’m currently learning at SYSU
 
 
 ![status](https://github-readme-stats.vercel.app/api?username=nothasson&count_private=true&theme=dark&show_icons=true))
